@@ -1,7 +1,6 @@
 import time
 import click 
 from datetime import datetime
-from pprint import pprint
 
 @click.command
 @click.option("--hours", prompt = "Enter 'True' or skip", default = False, help = "Hours before the new year"  )

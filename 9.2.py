@@ -24,7 +24,7 @@ class Collor(enum.Enum):
     Blue = 0x0000ff
     Yelolow = 0xffff00
     Orange = 0XFF8000
-
+ 
 
 class Toy(enum.Enum):
     TOY_1 = "CHRISTMAS TREE"
